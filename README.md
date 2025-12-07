@@ -65,8 +65,8 @@
 
 > Interpreting Results
 
-* ** Phylogenetic tree distances indicate evolutionary relatedness**
-* ** Samples clustering with known reference sequences suggest species identity**
+* Phylogenetic tree distances indicate evolutionary relatedness
+* Samples clustering with known reference sequences suggest species identity
 
 
 
