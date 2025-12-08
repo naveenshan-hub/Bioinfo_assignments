@@ -49,8 +49,8 @@
 > Step 2: Obtain Reference Sequences
 
 * **Run NCBI-BLAST against our clean fasta files and select the reference sequences (max 5)** 
-* **Concatenate the reference sequences and fasta files of our samples in Gitbash** 
-* **Save the file as "for\_translation.fasta"**
+* **Concatenate the reference sequences and clean fasta files of our samples in Gitbash** 
+* **Save the file as "for\_translation.fasta" in results folder** 
 
 > Step 3: Translate Nucleotide sequences to Amino Acid sequences
 
